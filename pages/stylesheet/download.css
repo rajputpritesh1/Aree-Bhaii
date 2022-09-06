@@ -1,0 +1,22 @@
+.wrapper {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: #fff;
+  display: grid;
+  place-items: center;
+  transition: opacity .25s, visibility 1s;
+}
+
+.fade {
+  opacity: 0;
+  visibility: hidden;
+}
+
+img{
+  cursor: pointer;
+}
+img:hover{
+  transition: all 300ms ease;
+  transform: scale(1.05);
+}
