@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+    int num1, num2, sum;
+    printf("Enter Num1 Value: ");
+    scanf("%d", &num1);
+
+    printf("Enter Num2 Value: ");
+    scanf("%d", &num2);
+
+    sum = num1+num2;
+
+    printf("Addition of %d and %d is %d",num1, num2, sum);
+    getch();
+}

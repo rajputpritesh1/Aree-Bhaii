@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+void main(){
+    printf("Hello World");
+    getch();
+}
+
+// Code By- Aree Bhaii
+// Developed By- Pritesh
