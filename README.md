@@ -1,3 +1,2 @@
-# Aree-Bhaii
-Computer Science and engineering notes
-<a href="https://rajputpritesh1.github.io/Aree-Bhaii/">Visit Site</a>
+# EVO-TECH
+<a href="https://rajputpritesh1.github.io/Aree-Bhaii/">Click Here To Visit</a>
